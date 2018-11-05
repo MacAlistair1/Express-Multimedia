@@ -17,6 +17,12 @@
                 <div class="about-inner-img">
                     <img src="assets/images/about/company.jpg" alt="">
                 </div>
+                <br>
+                <div class="about-inner-img">
+                    <amp-auto-ads type="adsense"
+                        data-ad-client="ca-pub-7134018287900158">
+                    </amp-auto-ads>
+                </div>
             </div><!-- col end -->
             <div class="col-lg-6 wow fadeInUp" data-wow-duration="1.5s" data-wow-delay="400ms">
                 <div class="about-inner-content">
